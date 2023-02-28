@@ -4,13 +4,13 @@ Estructuras de Datos
 Práctica 3: Árboles binarios, binarios completos y binarios ordenados
 ---------------------------------------------------------------------
 
-### Fecha de entrega: martes 27 de septiembre, 2022
+### Fecha de entrega: martes 14 de marzo, 2023
 
 Deben implementar los métodos faltantes de las clases
-[`ArbolBinario`](https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinario.java),
-[`ArbolBinarioCompleto`](https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinarioCompleto.java)
+[`ArbolBinario`](https://aztlan.fciencias.unam.mx/gitlab/2023-2-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinario.java),
+[`ArbolBinarioCompleto`](https://aztlan.fciencias.unam.mx/gitlab/2023-2-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinarioCompleto.java)
 y
-[`ArbolBinarioOrdenado`](https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinarioOrdenado.java).
+[`ArbolBinarioOrdenado`](https://aztlan.fciencias.unam.mx/gitlab/2023-2-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/ArbolBinarioOrdenado.java).
 
 Una vez que hayan terminado sus clases, la práctica debe compilar al hacer:
 
@@ -25,7 +25,7 @@ $ mvn test
 ```
 
 Y por último, debe correr correctamente el programa escrito en la clase
-[`Practica3`](https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/Practica3.java)
+[`Practica3`](https://aztlan.fciencias.unam.mx/gitlab/2023-2-edd/practica3/-/blob/main/src/main/java/mx/unam/ciencias/edd/Practica3.java)
 al ejecutar:
 
 ```
@@ -53,7 +53,7 @@ práctica*.
 Pueden clonar la práctica con el siguiente comando:
 
 ```
-$ git clone https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3.git
+$ git clone https://aztlan.fciencias.unam.mx/gitlab/2023-2-edd/practica3.git
 ```
 
 ### Documentación
@@ -61,7 +61,7 @@ $ git clone https://aztlan.fciencias.unam.mx/gitlab/2023-1-edd/practica3.git
 La documentación generada por JavaDoc la pueden consultar aquí:
 
 [Documentación generada por JavaDoc para la práctica
-3](https://aztlan.fciencias.unam.mx/~canek/2023-1-edd/practica3/apidocs/index.html)
+3](https://aztlan.fciencias.unam.mx/~canek/2023-2-edd/practica3/apidocs/index.html)
 
 ### Capítulos del libro
 
